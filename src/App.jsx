@@ -30,7 +30,7 @@ function App() {
       </section>
 
       <div className="ticks"></div>
-      <div>hi oshan, this is second </div>
+      <div>hi oshan, this is third </div>
 
       
 
