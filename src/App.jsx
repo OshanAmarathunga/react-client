@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>Napuru sadupama</h1>
+      <h1>Duspy maljaseed idiot .com</h1>
     </>
   )
 }
