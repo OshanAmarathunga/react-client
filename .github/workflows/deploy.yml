@@ -44,3 +44,4 @@ jobs:
             docker stop my-react-app || true
             docker rm my-react-app || true
             docker run -d -p 3000:80 --name my-react-app oshan94docker/my-react-app:latest
+            docker image prune -f
